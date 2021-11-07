@@ -1,5 +1,5 @@
 # Intro-to-Machine-Learning
-Collection of notebook related to Machine Learning concepts.
+Collection of notebooks related to Machine Learning concepts.
 <br>
 
 ## Reference:
